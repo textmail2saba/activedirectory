@@ -1,0 +1,2 @@
+https://www.lisenet.com/2016/ldap-and-kerberos-client-authentication-on-rhel-7-using-sssd/
+
